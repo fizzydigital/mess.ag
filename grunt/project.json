@@ -1,0 +1,18 @@
+{
+
+	"name": "mess.ag/es",
+	"paths": {
+
+		"assets":	"public/assets",
+		"public":	"public",
+		"js":		"js",
+		"less":		"less",
+		"node":		"node_modules",
+		"vendor":	"vendor",
+
+		"views":	"views",
+		"routes":	"routes"
+
+	}
+
+}

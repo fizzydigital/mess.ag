@@ -1,0 +1,42 @@
+{
+  "name": "mess.ag",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "animate.css": "^3.2.5",
+    "backbone": "*",
+    "body-parser": "*",
+    "bootstrap": "^3.3.5",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "express-secure-handlebars": "*",
+    "flat-ui": "*",
+    "flickity": "^1.1.0",
+    "grunt": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-newer": "*",
+    "grunt-notify": "*",
+    "grunt-run": "^0.3.0",
+    "grunt-shell-spawn": "^0.3.8",
+    "grunt-webfont": "*",
+    "jquery": "^2.1.4",
+    "lesshat": "^3.0.2",
+    "load-grunt-tasks": "*",
+    "marked": "*",
+    "mongodb": "*",
+    "morgan": "*",
+    "normalize.css": "^3.0.3",
+    "socket.io": "*",
+    "swag": "^0.7.0",
+    "underscore": "*"
+  }
+}
